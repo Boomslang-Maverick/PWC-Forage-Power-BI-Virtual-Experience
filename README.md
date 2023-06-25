@@ -108,3 +108,4 @@ The Company could try convincing customers to subscribe to One-Year and Two-Year
 Giving the discount to customers based on the some specific tasks is also good wat retaining them, specially those month-to-month contract.
 From analysis majority customers who churned did not sigh up for Online Security and Tech Support. These are the important services that customers should customers signup for. The company should educate customers on the benefits of signing up for these services.
 Increase sale of 1 and 2 year contract by 5% each and Yearly increase of automatic payments by 5%.
+![image](https://github.com/Boomslang-Maverick/PWC-Forage-Power-BI-Virtual-Experience/assets/129587686/69457a0d-50ce-46c9-ab03-ac0e11b72986)
