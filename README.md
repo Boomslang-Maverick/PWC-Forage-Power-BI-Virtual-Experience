@@ -21,3 +21,7 @@ Task 1:**
 ![image](https://github.com/Boomslang-Maverick/PWC-Forage-Power-BI-Virtual-Experience/assets/129587686/23b06cbc-322c-4443-bc97-26e51326295d)
 
 
+**Customer Risk Analysis**
+![image](https://github.com/Boomslang-Maverick/PWC-Forage-Power-BI-Virtual-Experience/assets/129587686/731919eb-8ec5-4574-ba55-61e8a31de4d2)
+
+
