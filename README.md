@@ -13,3 +13,11 @@ Task 1:**
 
 **Task 2:**
 ![image](https://github.com/Boomslang-Maverick/PWC-Forage-Power-BI-Virtual-Experience/assets/129587686/69457a0d-50ce-46c9-ab03-ac0e11b72986)
+
+
+**Task 3:**
+![image](https://github.com/Boomslang-Maverick/PWC-Forage-Power-BI-Virtual-Experience/assets/129587686/4f3ee2f0-4402-45eb-a13f-b50a9f6a8aad)
+
+![image](https://github.com/Boomslang-Maverick/PWC-Forage-Power-BI-Virtual-Experience/assets/129587686/23b06cbc-322c-4443-bc97-26e51326295d)
+
+
